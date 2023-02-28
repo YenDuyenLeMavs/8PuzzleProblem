@@ -1,6 +1,3 @@
-# Yen Duyen Amy Le
-# 1001827177
-
 import sys
 from datetime import datetime
 import gc
